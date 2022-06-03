@@ -28,4 +28,43 @@ R- 1- Acordar
   Atividade 03
   Pesquisar em sites quais linguagens de progr são a top 3?
   R-  Tecmundo (2021)
+  1- Python
+  2- java
+  3- c++,c#
+  programadores brasil (2021)
+  1- javascript
+  2- Python
+  3-Java
+  Kenzie (2022)
+  1- Python
+  2- Javascript
+  3-Java
   
+  Atividade 04
+
+Inteiro:
+1 2 3
+Corda:
+"água" "chocolate" "café"
+Flutuador:
+1,50 2,40 5,00
+
+
+Atividade 05
+
+#print("Olá, Mundo!")
+#print("Aula Introdução Python")
+print("Esta é uma aula de programação")
+#print("Vimos que exite várias linguagens")
+#print("como")
+#print("a linguagem java")
+print("A linguagem que estamos usando é")
+print("a linguagem Python")
+print("Nossa aula é na")
+#print("Infinity")
+#print("também conhecida como")
+print("Infinity School")
+print("Bons códigos")
+#print("Esta linha será um comentário em breve!")
+
+
